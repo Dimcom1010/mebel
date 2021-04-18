@@ -1,0 +1,133 @@
+.footer__wrapper {
+    padding: 60px 0 0 0;
+    width: 100%;
+position: relative;
+
+
+
+}
+.footer__back{
+    position: absolute;
+    z-index: 50;
+    bottom: -20px;
+}
+.footer__container{
+    margin: 0 30px;
+    position: relative;
+    z-index: 100;
+    display: grid;
+}
+@media screen and (max-width: 768px) {
+    .footer__container{
+        grid-template-columns: 1fr;
+        grid-template-areas:
+        "contacts"
+        "social"
+        "uslugi"
+       " info";
+
+    }
+
+}
+@media screen and (max-width: 1200px) and (min-width: 769px) {
+    .footer__container{
+        grid-template-columns: 2fr 2fr;
+        grid-template-areas:
+          "uslugi contacts"
+          "info contacts"
+          "social contacts";
+
+    }
+}
+@media screen and (min-width: 1201px) {
+    .footer__container{
+        grid-template-columns: 1fr 1fr 2fr;
+        grid-template-areas:
+          "uslugi  info contacts"
+          "social social contacts";
+
+
+    }
+}
+
+
+
+.footer__uslugi{
+
+    grid-area: uslugi;
+
+}
+.footer__uslugi_lable{
+
+}
+.footer__uslugi_items{
+
+}
+.footer__uslugi_item{
+
+}
+.footer__info{
+
+    grid-area: info;
+
+}
+.footer__info_items{
+
+}
+.footer__info_item{
+
+}
+.footer__contacts{
+
+    grid-area: contacts;
+
+}
+.footer__social{
+
+    grid-area: social;
+
+}
+.networks{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.networks_text{
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+}
+.networks_text img{
+margin: 8px;
+
+}
+.networks_icons{
+    display: flex;
+    align-items: center;
+}
+.networks_icon{
+    cursor: pointer;
+    margin: 6px 6px;
+}
+.footer__text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.payment{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.payment_icons{
+    display: flex;
+
+}
+.payment_icon{
+    margin: 6px 6px;
+}
