@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mebelbuild/static/css/main.8c4882c5.chunk.css",
-    "main.js": "/mebelbuild/static/js/main.acc253f6.chunk.js",
-    "main.js.map": "/mebelbuild/static/js/main.acc253f6.chunk.js.map",
+    "main.js": "/mebelbuild/static/js/main.8da9d767.chunk.js",
+    "main.js.map": "/mebelbuild/static/js/main.8da9d767.chunk.js.map",
     "runtime-main.js": "/mebelbuild/static/js/runtime-main.02df1466.js",
     "runtime-main.js.map": "/mebelbuild/static/js/runtime-main.02df1466.js.map",
-    "static/js/2.16dc2f14.chunk.js": "/mebelbuild/static/js/2.16dc2f14.chunk.js",
-    "static/js/2.16dc2f14.chunk.js.map": "/mebelbuild/static/js/2.16dc2f14.chunk.js.map",
+    "static/js/2.7e4469c9.chunk.js": "/mebelbuild/static/js/2.7e4469c9.chunk.js",
+    "static/js/2.7e4469c9.chunk.js.map": "/mebelbuild/static/js/2.7e4469c9.chunk.js.map",
     "static/js/3.98ba92ea.chunk.js": "/mebelbuild/static/js/3.98ba92ea.chunk.js",
     "static/js/3.98ba92ea.chunk.js.map": "/mebelbuild/static/js/3.98ba92ea.chunk.js.map",
     "index.html": "/mebelbuild/index.html",
     "static/css/main.8c4882c5.chunk.css.map": "/mebelbuild/static/css/main.8c4882c5.chunk.css.map",
-    "static/js/2.16dc2f14.chunk.js.LICENSE.txt": "/mebelbuild/static/js/2.16dc2f14.chunk.js.LICENSE.txt",
+    "static/js/2.7e4469c9.chunk.js.LICENSE.txt": "/mebelbuild/static/js/2.7e4469c9.chunk.js.LICENSE.txt",
     "static/media/Back.199b97ed.jpg": "/mebelbuild/static/media/Back.199b97ed.jpg",
     "static/media/footer.281e2616.jpeg": "/mebelbuild/static/media/footer.281e2616.jpeg",
     "static/media/tahta.936cde2e.png": "/mebelbuild/static/media/tahta.936cde2e.png",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.02df1466.js",
-    "static/js/2.16dc2f14.chunk.js",
+    "static/js/2.7e4469c9.chunk.js",
     "static/css/main.8c4882c5.chunk.css",
-    "static/js/main.acc253f6.chunk.js"
+    "static/js/main.8da9d767.chunk.js"
   ]
 }
